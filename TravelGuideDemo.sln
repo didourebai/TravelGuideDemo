@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{A07316F0-37A9-45C5-9B97-EE3C6A106FF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{06E81F31-9D90-4C10-9C45-1FC50164255D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{66565441-1EB6-465B-AE76-CA94E756FDF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{5FD02629-8238-48A5-B572-C1C523C5AD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGD.Application", "TGD.Application\TGD.Application.csproj", "{9BB685A7-4974-4E57-94DD-215FF5636851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGD.Domain", "TGD.Domain\TGD.Domain.csproj", "{D4464777-21AE-445C-9D60-B9EFBFB59EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGD.Persistence", "TGD.Persistence\TGD.Persistence.csproj", "{BB0CF22D-8A15-452A-9F9E-D3791C020711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGD.Services", "TGD.Services\TGD.Services.csproj", "{84220FE5-4B40-4E97-8AA8-0CA3962015C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB685A7-4974-4E57-94DD-215FF5636851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB685A7-4974-4E57-94DD-215FF5636851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB685A7-4974-4E57-94DD-215FF5636851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB685A7-4974-4E57-94DD-215FF5636851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4464777-21AE-445C-9D60-B9EFBFB59EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4464777-21AE-445C-9D60-B9EFBFB59EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4464777-21AE-445C-9D60-B9EFBFB59EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4464777-21AE-445C-9D60-B9EFBFB59EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0CF22D-8A15-452A-9F9E-D3791C020711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0CF22D-8A15-452A-9F9E-D3791C020711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0CF22D-8A15-452A-9F9E-D3791C020711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0CF22D-8A15-452A-9F9E-D3791C020711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84220FE5-4B40-4E97-8AA8-0CA3962015C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84220FE5-4B40-4E97-8AA8-0CA3962015C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84220FE5-4B40-4E97-8AA8-0CA3962015C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84220FE5-4B40-4E97-8AA8-0CA3962015C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9BB685A7-4974-4E57-94DD-215FF5636851} = {A07316F0-37A9-45C5-9B97-EE3C6A106FF5}
+		{D4464777-21AE-445C-9D60-B9EFBFB59EA6} = {06E81F31-9D90-4C10-9C45-1FC50164255D}
+		{BB0CF22D-8A15-452A-9F9E-D3791C020711} = {66565441-1EB6-465B-AE76-CA94E756FDF1}
+		{84220FE5-4B40-4E97-8AA8-0CA3962015C1} = {5FD02629-8238-48A5-B572-C1C523C5AD56}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11563DB6-4807-49AE-A812-1F2AE041AF13}
+	EndGlobalSection
+EndGlobal
