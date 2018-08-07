@@ -1,0 +1,9 @@
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\bin\Debug\netcoreapp2.0\TGD.Persistence.deps.json
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\bin\Debug\netcoreapp2.0\TGD.Persistence.dll
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\bin\Debug\netcoreapp2.0\TGD.Persistence.pdb
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\obj\Debug\netcoreapp2.0\TGD.Persistence.csprojAssemblyReference.cache
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\obj\Debug\netcoreapp2.0\TGD.Persistence.csproj.CoreCompileInputs.cache
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\obj\Debug\netcoreapp2.0\TGD.Persistence.AssemblyInfoInputs.cache
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\obj\Debug\netcoreapp2.0\TGD.Persistence.AssemblyInfo.cs
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\obj\Debug\netcoreapp2.0\TGD.Persistence.dll
+E:\MesProjets\TravelGuideDemo\TGD.Persistence\obj\Debug\netcoreapp2.0\TGD.Persistence.pdb

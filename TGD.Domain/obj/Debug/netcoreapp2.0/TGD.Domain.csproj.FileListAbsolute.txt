@@ -1,0 +1,12 @@
+E:\MesProjets\TravelGuideDemo\TGD.Domain\bin\Debug\netcoreapp2.0\TGD.Domain.deps.json
+E:\MesProjets\TravelGuideDemo\TGD.Domain\bin\Debug\netcoreapp2.0\TGD.Domain.dll
+E:\MesProjets\TravelGuideDemo\TGD.Domain\obj\Debug\netcoreapp2.0\TGD.Domain.csprojAssemblyReference.cache
+E:\MesProjets\TravelGuideDemo\TGD.Domain\obj\Debug\netcoreapp2.0\TGD.Domain.csproj.CoreCompileInputs.cache
+E:\MesProjets\TravelGuideDemo\TGD.Domain\obj\Debug\netcoreapp2.0\TGD.Domain.AssemblyInfoInputs.cache
+E:\MesProjets\TravelGuideDemo\TGD.Domain\obj\Debug\netcoreapp2.0\TGD.Domain.AssemblyInfo.cs
+E:\MesProjets\TravelGuideDemo\TGD.Domain\bin\Debug\netcoreapp2.0\TGD.Domain.pdb
+E:\MesProjets\TravelGuideDemo\TGD.Domain\bin\Debug\netcoreapp2.0\TGD.Persistence.dll
+E:\MesProjets\TravelGuideDemo\TGD.Domain\bin\Debug\netcoreapp2.0\TGD.Persistence.pdb
+E:\MesProjets\TravelGuideDemo\TGD.Domain\obj\Debug\netcoreapp2.0\TGD.Domain.csproj.CopyComplete
+E:\MesProjets\TravelGuideDemo\TGD.Domain\obj\Debug\netcoreapp2.0\TGD.Domain.dll
+E:\MesProjets\TravelGuideDemo\TGD.Domain\obj\Debug\netcoreapp2.0\TGD.Domain.pdb

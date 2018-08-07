@@ -1,0 +1,14 @@
+E:\MesProjets\TravelGuideDemo\TGD.Application\bin\Debug\netcoreapp2.0\TGD.Application.deps.json
+E:\MesProjets\TravelGuideDemo\TGD.Application\bin\Debug\netcoreapp2.0\TGD.Application.dll
+E:\MesProjets\TravelGuideDemo\TGD.Application\bin\Debug\netcoreapp2.0\TGD.Application.pdb
+E:\MesProjets\TravelGuideDemo\TGD.Application\bin\Debug\netcoreapp2.0\TGD.Domain.dll
+E:\MesProjets\TravelGuideDemo\TGD.Application\bin\Debug\netcoreapp2.0\TGD.Persistence.dll
+E:\MesProjets\TravelGuideDemo\TGD.Application\bin\Debug\netcoreapp2.0\TGD.Domain.pdb
+E:\MesProjets\TravelGuideDemo\TGD.Application\bin\Debug\netcoreapp2.0\TGD.Persistence.pdb
+E:\MesProjets\TravelGuideDemo\TGD.Application\obj\Debug\netcoreapp2.0\TGD.Application.csprojAssemblyReference.cache
+E:\MesProjets\TravelGuideDemo\TGD.Application\obj\Debug\netcoreapp2.0\TGD.Application.csproj.CoreCompileInputs.cache
+E:\MesProjets\TravelGuideDemo\TGD.Application\obj\Debug\netcoreapp2.0\TGD.Application.AssemblyInfoInputs.cache
+E:\MesProjets\TravelGuideDemo\TGD.Application\obj\Debug\netcoreapp2.0\TGD.Application.AssemblyInfo.cs
+E:\MesProjets\TravelGuideDemo\TGD.Application\obj\Debug\netcoreapp2.0\TGD.Application.csproj.CopyComplete
+E:\MesProjets\TravelGuideDemo\TGD.Application\obj\Debug\netcoreapp2.0\TGD.Application.dll
+E:\MesProjets\TravelGuideDemo\TGD.Application\obj\Debug\netcoreapp2.0\TGD.Application.pdb
